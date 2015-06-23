@@ -1,0 +1,103 @@
+Companies think competitively or strategically:
+
+Company 1
+The maximum price the company will pay when buying electricity:
+Region 1 
+Demand for electricity for this hour:
+Power plant 1
+Type is base load, load following, or peaker:
+If type is base load, output rate is:
+Maximum output rate:
+Marginal cost:
+
+Power plant 2
+Type is base load, load following, or peaker:
+If type is base load, output rate is:
+Maximum output rate:
+Marginal cost:
+
+Power plant 3
+Type is base load, load following, or peaker:
+If type is base load, output rate is:
+Maximum output rate:
+Marginal cost:
+
+Company 2
+The maximum price the company will pay when buying electricity:
+Region 1 
+Demand for electricity for this hour:
+Power plant 1
+Type is base load, load following, or peaker:
+If type is base load, output rate is:
+Maximum output rate:
+Marginal cost:
+
+Power plant 2
+Type is base load, load following, or peaker:
+If type is base load, output rate is:
+Maximum output rate:
+Marginal cost:
+
+Power plant 3
+Type is base load, load following, or peaker:
+If type is base load, output rate is:
+Maximum output rate:
+Marginal cost:
+
+Region 2
+Demand for electricity for this hour:
+Power plant 1
+Type is base load, load following, or peaker:
+If type is base load, output rate is:
+Maximum output rate:
+Marginal cost:
+
+Power plant 2
+Type is base load, load following, or peaker:
+If type is base load, output rate is:
+Maximum output rate:
+Marginal cost:
+
+Power plant 3
+Type is base load, load following, or peaker:
+If type is base load, output rate is:
+Maximum output rate:
+Marginal cost:
+
+Company 3
+The maximum price the company will pay when buying electricity:
+Region 1
+Demand for electricity for this hour:
+Power plant 1
+Type is base load, load following, or peaker:
+If type is base load, output rate is:
+Maximum output rate:
+Marginal cost:
+
+Power plant 2
+Type is base load, load following, or peaker:
+If type is base load, output rate is:
+Maximum output rate:
+Marginal cost:
+
+Power plant 3
+Type is base load, load following, or peaker:
+If type is base load, output rate is:
+Maximum output rate:
+Marginal cost:
+
+Transmission lines
+Line 1
+Capacity:
+Source:
+Sink:
+
+Line 2
+Capacity:
+Source:
+Sink:
+
+Line 3
+Capacity:
+Source:
+Sink:
